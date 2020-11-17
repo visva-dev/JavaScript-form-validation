@@ -37,7 +37,7 @@ h2 {
 }
 
 .form-control label {
-  color: rgb(59, 53, 45);
+  color: #fff;
   display: block;
   margin-bottom: 5px;
 }
@@ -61,11 +61,11 @@ h2 {
 }
 
 .form-control.error input {
-  border-color: darkred;
+  border-color: red;
 }
 
 .form-control small {
-  color: darkred;
+  color: red;
   position: absolute;
   bottom: 0;
   left: 0;
