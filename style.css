@@ -37,7 +37,7 @@ h2 {
 }
 
 .form-control label {
-  color: #fff;
+  color: rgb(0, 0, 0);
   display: block;
   margin-bottom: 5px;
 }
@@ -65,7 +65,7 @@ h2 {
 }
 
 .form-control small {
-  color: red;
+  color: #000000;
   position: absolute;
   bottom: 0;
   left: 0;
